@@ -1,1 +1,1 @@
-# Spotify-aluara
+# Spotify-alura
